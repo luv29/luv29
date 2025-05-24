@@ -1,27 +1,101 @@
-<h1 align="center">Hi 👋, I'm Luv Kansal</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+# Hi there, I'm Luv Kansal 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luv29&label=Profile%20views&color=0e75b6&style=flat" alt="luv29" /> </p>
+**Software Engineer from India**
 
-- 🌱 I’m currently learning **Generative AI**
+<div align="center">
 
-- 💬 Ask me about **Backend**
+[![Portfolio](https://img.shields.io/badge/Portfolio-luvkansal.vercel.app-blue?style=flat-square&logo=vercel)](https://luvkansal.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/luv-kansal-3a4a372b1)
+[![Email](https://img.shields.io/badge/Email-luvkansal29@gmail.com-red?style=flat-square&logo=gmail)](mailto:luvkansal29@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=luv29&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/luv29)
 
-- 📫 How to reach me **luvkansal29@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luv-kansal-3a4a372b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luv-kansal-3a4a372b1" height="30" width="40" /></a>
-<a href="https://instagram.com/luv_295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luv_295" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/luvkansal29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="luvkansal29" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/luv29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="luv29" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I'm a passionate Software Engineer with a strong focus on backend development and a growing expertise in Generative AI. I love solving complex problems and building scalable applications that make a difference.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luv29&show_icons=true&locale=en&layout=compact" alt="luv29" /></p>
+- 🔭 Currently exploring the world of **Generative AI** and **LLM applications**
+- 💼 Specializing in **Backend Development** with modern frameworks
+- 🌐 Building end-to-end applications with **React**, **Next.js**, and **Node.js**
+- ⚡ Passionate about **System Design** and **Performance Optimization**
+- 🏆 Active competitive programmer on **CodeChef** and **Codeforces**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luv29&show_icons=true&locale=en" alt="luv29" /></p>
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luv29&" alt="luv29" /></p>
+<div align="center">
+
+### Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+
+### Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/luvkansal29/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/luvkansal29)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/luv29)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luv29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luv29&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luv29&theme=tokyonight" alt="luv29" />
+</div>
+
+
+
+## 🤝 Let's Connect
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+- 💼 **Portfolio**: [luvkansal.vercel.app](https://luvkansal.vercel.app)
+- 💬 **Ask me about**: Backend Development, System Design, Competitive Programming
+- 📧 **Email**: [luvkansal29@gmail.com](mailto:luvkansal29@gmail.com)
+- 💼 **LinkedIn**: [Luv Kansal](https://linkedin.com/in/luv-kansal-3a4a372b1)
+- 📷 **Instagram**: [@luv_295](https://instagram.com/luv_295)
+
+---
+
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</div>
