@@ -145,37 +145,6 @@ I'm a passionate **Software Engineer** from India 🇮🇳 specializing in **Bac
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🌱 Mahanayak</h3>
-        <div align="center">
-          <a href="https://github.com/luv29/Mahanayak" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=luv29&repo=Mahanayak&theme=radical&border_color=00D9FF" alt="Mahanayak" />
-          </a>
-          <p><strong>AI • Environment • Event Planning</strong></p>
-          <p>Agentic AI powered environmental events planning platform</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">⚔️ Lockout</h3>
-        <div align="center">
-          <a href="https://github.com/luv29/Lockout" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=luv29&repo=Lockout&theme=radical&border_color=00D9FF" alt="Lockout" />
-          </a>
-          <p><strong>Competitive Programming • Tournament</strong></p>
-          <p>1v1 competitive programming tournament platform</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
@@ -229,12 +198,4 @@ I'm a passionate **Software Engineer** from India 🇮🇳 specializing in **Bac
   
   **💡 "Code is like humor. When you have to explain it, it's bad." - Cory House**
   
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together!&descAlignY=51&descAlign=center" alt="Footer" />
 </div>
