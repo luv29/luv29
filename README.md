@@ -5,8 +5,6 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=luv29&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/luv29?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-brightgreen?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Specialization-Generative%20AI-ff69b4?style=for-the-badge" alt="Specialization" />
 </div>
